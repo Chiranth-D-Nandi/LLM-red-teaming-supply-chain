@@ -8,9 +8,9 @@ Growler Security audits HuggingFace models before deployment. It runs a two-phas
 
 ## Demo
 
-![Verdict and Risk Score](docs/1111.jpeg)
+![Verdict and Risk Score](111111.jpeg)
 
-![Risk by Category and Injection Resistance Depth](docs/22.jpeg)
+![Risk by Category and Injection Resistance Depth](22.jpeg)
 
 ---
 
